@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello there! 
 
-<!--
-**kayolobs/kayolobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Caio, and I am a Computer Engineering student at the Polytechnic School of Pernambuco, UPE. Currently, I am focusing on studying Data Science and advancing in my course, as well as looking for new opportunities for practical experience. I have always been passionate about technology, and here I will share a bit of my journey!
 
-Here are some ideas to get you started:
+### Currently learning
+- Data Science with Python
+- Java development
+- ADT for data organization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm passionate about
+- Computer Science
+- Computer Engineering
+- Java
+- Games and Game development
+- Arduino
+- Solving problems!
+
+### Tecnologies and languages
+- Java
+- HMTL and CSS
+- Python
+- C
+
